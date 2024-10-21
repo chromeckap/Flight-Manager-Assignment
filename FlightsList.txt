@@ -1,0 +1,40 @@
+Let A1, Praha - Paříž, odlet 1.6.2023 v 6:00, přílet 1.6.2023 v 7:30, aerolinka Czech Airlines, cena 2000 Kč, třída ekonomická.
+Let A2, Vídeň - Paříž, odlet 1.6.2023 v 7:00, přílet 1.6.2023 v 8:30, aerolinka Austrian Airlines, cena 2500 Kč, třída ekonomická.
+Let A3, Praha - Vídeň, odlet 1.6.2023 v 8:00, přílet 1.6.2023 v 9:00, aerolinka Ryanair, cena 1000 Kč, třída ekonomická.
+Let A4, Londýn - Řím, odlet 1.6.2023 v 9:00, přílet 1.6.2023 v 12:00, aerolinka British Airways, cena 4000 Kč, třída ekonomická.
+Let A5, Paříž - New York, odlet 1.6.2023 v 10:00, přílet 1.6.2023 v 14:00, aerolinka Air France, cena 15000 Kč, třída business.
+Let A6, Vídeň - Řím, odlet 1.6.2023 v 11:00, přílet 1.6.2023 v 12:30, aerolinka Austrian Airlines, cena 1800 Kč, třída ekonomická.
+Let A7, Paříž - Praha, odlet 1.6.2023 v 12:00, přílet 1.6.2023 v 13:30, aerolinka Czech Airlines, cena 2200 Kč, třída ekonomická.
+Let A8, Řím - Londýn, odlet 1.6.2023 v 13:00, přílet 1.6.2023 v 16:00, aerolinka Alitalia, cena 3500 Kč, třída ekonomická.
+Let A9, New York - Paříž, odlet 1.6.2023 v 14:00, přílet 1.6.2023 v 18:00, aerolinka Delta Airlines, cena 5500 Kč, třída business.
+Let A10, Řím - Vídeň, odlet 1.6.2023 v 15:00, přílet 1.6.2023 v 16:30, aerolinka Ryanair, cena 1500 Kč, třída ekonomická.
+Let A11, Paříž - Londýn, odlet 1.6.2023 v 16:00, přílet 1.6.2023 v 17:00, aerolinka EasyJet, cena 1800 Kč, třída ekonomická.
+Let A12, Vídeň - New York, odlet 1.6.2023 v 17:00, přílet 1.6.2023 v 22:00, aerolinka Austrian Airlines, cena 7000 Kč, třída ekonomická.
+Let A13, Praha - Řím, odlet 1.6.2023 v 18:00, přílet 1.6.2023 v 19:30, aerolinka Czech Airlines, cena 1700 Kč, třída ekonomická.
+Let A14, Paříž - Vídeň, odlet 1.6.2023 v 19:00, přílet 1.6.2023 v 20:30, aerolinka Air France, cena 2500 Kč, třída ekonomická.
+Let A15, Londýn - Paříž, odlet 1.6.2023 v 20:00, přílet 1.6.2023 v 21:30, aerolinka British Airways, cena 2300 Kč, třída ekonomická.
+Let A16, New York - Řím, odlet 1.6.2023 v 21:00, přílet 2.6.2023 v 11:00, aerolinka Delta Airlines, cena 10000 Kč, třída business.
+Let A17, Vídeň - Praha, odlet 1.6.2023 v 22:00, přílet 1.6.2023 v 23:00, aerolinka Ryanair, cena 1200 Kč, třída ekonomická.
+Let A18, Londýn - New York, odlet 1.6.2023 v 23:00, přílet 2.6.2023 v 3:00, aerolinka Virgin Atlantic, cena 6000 Kč, třída ekonomická.
+Let A19, Paříž - Řím, odlet 1.6.2023 v 23:30, přílet 2.6.2023 v 1:00, aerolinka Air France, cena 2000 Kč, třída ekonomická.
+Let A20, Řím - New York, odlet 1.6.2023 v 23:59, přílet 2.6.2023 v 9:00, aerolinka Alitalia, cena 9000 Kč, třída ekonomická.
+Let A21, Vídeň - Paříž, odlet 2.6.2023 v 6:00, přílet 2.6.2023 v 7:30, aerolinka Austrian Airlines, cena 2200 Kč, třída ekonomická.
+Let A22, Praha - New York, odlet 2.6.2023 v 7:00, přílet 2.6.2023 v 12:00, aerolinka Delta Airlines, cena 8500 Kč, třída business.
+Let A23, Řím - Londýn, odlet 2.6.2023 v 8:00, přílet 2.6.2023 v 9:30, aerolinka Ryanair, cena 1900 Kč, třída ekonomická.
+Let A24, New York - Vídeň, odlet 2.6.2023 v 9:00, přílet 2.6.2023 v 16:00, aerolinka Austrian Airlines, cena 17500 Kč, třída business.
+Let A25, Paříž - Řím, odlet 2.6.2023 v 10:00, přílet 2.6.2023 v 11:30, aerolinka Air France, cena 2100 Kč, třída ekonomická.
+Let A26, Londýn - Vídeň, odlet 2.6.2023 v 11:00, přílet 2.6.2023 v 14:00, aerolinka British Airways, cena 2800 Kč, třída ekonomická.
+Let A27, Řím - New York, odlet 2.6.2023 v 12:00, přílet 2.6.2023 v 20:00, aerolinka Alitalia, cena 9500 Kč, třída ekonomická.
+Let A28, Vídeň - Praha, odlet 2.6.2023 v 13:00, přílet 2.6.2023 v 14:00, aerolinka Ryanair, cena 1200 Kč, třída ekonomická.
+Let A29, Paříž - Londýn, odlet 2.6.2023 v 14:00, přílet 2.6.2023 v 15:30, aerolinka EasyJet, cena 1700 Kč, třída ekonomická.
+Let A30, New York - Řím, odlet 2.6.2023 v 15:00, přílet 3.6.2023 v 2:00, aerolinka Delta Airlines, cena 11000 Kč, třída business.
+Let A31, Londýn - New York, odlet 2.6.2023 v 16:00, přílet 2.6.2023 v 19:00, aerolinka Virgin Atlantic, cena 6800 Kč, třída ekonomická.
+Let A32, Řím - Paříž, odlet 2.6.2023 v 17:00, přílet 2.6.2023 v 18:30, aerolinka Air France, cena 2200 Kč, třída ekonomická.
+Let A33, Vídeň - Londýn, odlet 2.6.2023 v 18:00, přílet 2.6.2023 v 19:30, aerolinka Austrian Airlines, cena 2500 Kč, třída ekonomická.
+Let A34, Praha - Řím, odlet 2.6.2023 v 19:00, přílet 2.6.2023 v 20:30, aerolinka Czech Airlines, cena 1800 Kč, třída ekonomická.
+Let A35, New York - Vídeň, odlet 2.6.2023 v 20:00, přílet 3.6.2023 v 4:00, aerolinka Lufthansa, cena 11500 Kč, třída business.
+Let A36, Paříž - Londýn, odlet 2.6.2023 v 21:00, přílet 2.6.2023 v 22:30, aerolinka British Airways, cena 1900 Kč, třída ekonomická.
+Let A37, Londýn - Řím, odlet 2.6.2023 v 22:00, přílet 2.6.2023 v 23:30, aerolinka Ryanair, cena 2200 Kč, třída ekonomická.
+Let A38, Řím - Vídeň, odlet 2.6.2023 v 23:00, přílet 3.6.2023 v 0:30, aerolinka Austrian Airlines, cena 1900 Kč, třída ekonomická.
+Let A39, Vídeň - New York, odlet 3.6.2023 v 0:00, přílet 3.6.2023 v 7:00, aerolinka Delta Airlines, cena 10000 Kč, třída business.
+Let A40, Londýn - Paříž, odlet 3.6.2023 v 1:00, přílet 3.6.2023 v 2:30, aerolinka EasyJet, cena 1500 Kč, třída ekonomická.
